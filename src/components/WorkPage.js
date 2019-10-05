@@ -22,7 +22,7 @@ class WorkPage extends Component {
                     name:"Portfolio",
                     title:"This website",
                     skills: ["Routing transition", "Love for beautiful integration"],
-                    href : ""
+                    href : "https://github.com/teddysitbon/MyNewWebsite"
                 }
             ]
         };
